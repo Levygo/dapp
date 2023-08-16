@@ -1,4 +1,5 @@
 import { ConnectButton } from "@rainbow-me/rainbowkit";
+import { SignMessage } from "components/Sign";
 import type { NextPage } from "next";
 import Head from "next/head";
 
@@ -12,6 +13,7 @@ const Home: NextPage = () => {
       </Head>
       <div>
         <ConnectButton />
+        <SignMessage />
       </div>
     </div>
   );
