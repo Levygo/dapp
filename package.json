@@ -1,6 +1,6 @@
 {
   "name": "@hblues/dapp-template",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A template to create a Dapp by Next.js quickly",
   "repository": {
     "type": "git",
