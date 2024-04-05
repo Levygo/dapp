@@ -1,6 +1,6 @@
 {
   "name": "@hblues/dapp-template",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "author": "hblues",
   "license": "MIT",
   "description": "A template to create a Dapp by Next.js quickly",
