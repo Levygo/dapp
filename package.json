@@ -1,14 +1,13 @@
 {
-  "name": "@hblues/dapp-template",
-  "version": "0.1.3",
-  "author": "hblues",
+  "name": "@lauren77/dapp-template",
+  "version": "0.1.1",
   "license": "MIT",
   "description": "A template to create a Dapp by Next.js quickly",
   "repository": {
     "type": "git",
-    "url": "https://github.com/H-Blues/Dapp-Template"
+    "url": "https://github.com/Levygo/dapp"
   },
-  "website": "https://github.com/H-Blues/Dapp-Template.git",
+  "website": "https://github.com/Levygo/dapp.git",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
